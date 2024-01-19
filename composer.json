@@ -1,0 +1,18 @@
+{
+    "name": "robso/bancodedados-pdo",
+    "description": "Trabalhando com banco de dados usando PDO em PHP",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Robso\\PDO\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robson Wendel",
+            "email": "robson.costa134@gmail.com"
+        }
+    ],
+    "require": {}
+}
